@@ -1,0 +1,12 @@
+create reat Api
+
+1. get /users - list all users
+
+2. post /users - create new users
+
+3. patch /users/id - update user data on base of given id
+
+4. delete /users/id - delete user data on base of id
+
+note - we are note use database now (not link database) so we hardcore this data
+from mackaroo.com - this generate fake data for testing purpose
